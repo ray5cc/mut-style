@@ -1,4 +1,4 @@
-# Mut Style
+# Mut Style ![CI](https://github.com/ray5cc/mut-style/workflows/CI/badge.svg)
 Achieve styled component using mutable `<style>` tag.
 
 ## Usage

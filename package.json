@@ -1,6 +1,6 @@
 {
   "name": "mut-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Component For Making A Mutable CSS Rule In Component",
   "libDir": "lib",
   "main": "lib/main.js",
